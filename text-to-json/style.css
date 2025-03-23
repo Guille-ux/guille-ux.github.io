@@ -57,9 +57,6 @@ body {
 	background-color: #fcfcfc;
 }
 
-.container {
-	max-width: 600px;
-}
 
 
 
@@ -125,10 +122,10 @@ body {
 	right: 0px;
 	align-items: center;
 	flex-grow: 1;
-	width: 90%;
 	bottom: 0;
 	padding: 10px;
 	margin-bottom: 10px;
+	width: 70%;
 }
 
 #question {
@@ -164,4 +161,18 @@ body {
 	padding: 10px;
 	border: 1px solid #ccc;
 	border-radius: 10px;
+}
+
+.download {
+	position: fixed;
+	left: 0;
+	top: 40px;
+	margin: 10px;
+}
+#goback {
+	position: fixed;
+	left: 0;
+	font-size: 15px;
+	font-family: liberation sans;
+	margin: 10px;
 }

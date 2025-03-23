@@ -69,6 +69,7 @@ var chatBot;
 const loadButton = document.getElementById("load");
 const loadFile = document.getElementById("matrix");
 
+
 function scrollToBottom() {
 	window.scrollTo({top: document.body.scrollHeight, behavior: "smooth"});
 }
@@ -109,6 +110,15 @@ function downFile(filedata, filename) {
 	URL.revokeObjectURL(url);
 }
 
+function asker() {
+	let userQuestion = question.value;
+	let answer = chatBot.ask(userQuestion);
+	response.innerHTML += userBase + userQuestion + "</div>";
+	response.innerHTML += botBase + answer + "</div>";
+	question.value = "";
+	scrollToBottom();
+}
+
 loadButton.addEventListener("click", async ()=> {
 	const myfile = loadFile.files[0];
 	const mymatrix = await myfile.text();
@@ -118,12 +128,11 @@ loadButton.addEventListener("click", async ()=> {
 	chatBot.qs = mymatrix.qs;
 });
 
-askButton.addEventListener("click", ()=> {
-	let userQuestion = question.value;
-	let answer = chatBot.ask(userQuestion);
-	response.innerHTML += userBase + userQuestion + "</div>";
-	response.innerHTML += botBase + answer + "</div>";
-	scrollToBottom();
+askButton.addEventListener("click", asker);
+question.addEventListener("keypress", (event) => {
+	if (event.key === "Enter") {
+		asker()
+	}
 });
 
 downloadButton.addEventListener("click", ()=> {

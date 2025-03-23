@@ -11,16 +11,23 @@
 <body>
 	<div class="container" id="txtjson">
 		<div id="goback">
-  			<a href="https://guille-ux.github.io">Back</a>
+  			<button onclick="goback()" class="mybtn">Back</button>
 		</div>
 		<div class="out" id="act">
+			<div class="message" id="salida">
+				
+			</div>
 		</div>
-		<div id="add">
-			<input type="text/plain" placeholder="Text To Add" id="input" class="mybtn">
+		<div id="add" class="input">
+			<input type="text/plain" placeholder="Text To Add" id="question" class="mybtn">
+			<button class="mybtn" id="addone">Add</button>
+			<button class="mybtn" id="clear">Clear</button>
 		</div>
 		<div class="download">
+			<input type="text/plain" id="name" placeholder="FileName..." class="mybtn">
 			<button class="mybtn" id="download">Download</button>
 		</div>
 	</div>
+	<script src="script.js"></script>
 </body>
 </html>
