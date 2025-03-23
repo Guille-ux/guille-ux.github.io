@@ -11,6 +11,10 @@ body {
 	overflow-y: auto;
 }
 
+.container {
+	position: relative;
+}
+
 .user-message {
 	text-align: right;
 	margin-bottom: 20px;
@@ -164,14 +168,14 @@ body {
 }
 
 .download {
-	position: fixed;
+	position: absolute;
 	left: 0px;
 	top: 40px;
 	margin: 10px;
 	z-index: 9999;
 }
 #goback {
-	position: fixed;
+	position: absolute;
 	left: 0px;
 	font-size: 15px;
 	margin: 10px;
