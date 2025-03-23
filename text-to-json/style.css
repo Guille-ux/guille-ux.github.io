@@ -165,13 +165,13 @@ body {
 
 .download {
 	position: fixed;
-	left: 0;
+	left: 0px;
 	top: 40px;
 	margin: 10px;
 }
 #goback {
 	position: fixed;
-	left: 0;
+	left: 0px;
 	font-size: 15px;
 	margin: 10px;
 }
