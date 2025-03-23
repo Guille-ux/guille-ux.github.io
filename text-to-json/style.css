@@ -121,7 +121,7 @@ body {
 
 
 .input {
-	position: relative;
+	position: fixed;
 	right: 0px;
 	align-items: center;
 	flex-grow: 1;
