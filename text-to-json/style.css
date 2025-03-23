@@ -168,10 +168,12 @@ body {
 	left: 0px;
 	top: 40px;
 	margin: 10px;
+	z-index: 9999;
 }
 #goback {
 	position: fixed;
 	left: 0px;
 	font-size: 15px;
 	margin: 10px;
+	z-index: 9999;
 }
