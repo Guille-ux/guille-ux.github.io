@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OTP GENERATOR ONLINE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<h1> OTP Generator Online</h1>
+	<div id="containerone">
+		<input type="text" class="mybtn" placeholder="Length of the One Time Pad" id="otplen">
+		<button class="mybtn" id="gen">Generate OTP</button>
+	</div>
+    <button class="mybtn" id="down" onclick="download_otp()">Download OTP (JSON)</button>
+    <button class="mybtn" id="goback" onclick="gosite('https://guille-ux.github.io')">Back</button>
+    <div class="result" id="msg-box">
+		<div class="message">
+		</div>
+	</div>
+    <script src="script.js"></script>
+</body>
+</html>

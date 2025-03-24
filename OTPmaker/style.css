@@ -1,0 +1,29 @@
+body {
+	font-family: sans-serif;
+	background-color: #f26344;
+	padding: 10px;
+	padding-top: 0;
+}
+
+.mybtn {
+	padding: 10px;
+	border: 1px solid #CCC;
+	border-radius: 10px;
+}
+
+.mybtn:hover {
+	background-color: #FFF;
+}
+
+#containerone {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+#msg-box {
+	background-color: #ecdb71;
+	padding: 10px;
+	margin-top: 10px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+}
