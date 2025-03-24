@@ -8,3 +8,5 @@
 ### Text To JSON
 <a href="text-to-json/">Go To Text To JSON</a>
 
+### OTP Maker
+<a href="OTPmaker/">Go To OTP Maker</a>
