@@ -43,9 +43,9 @@ clear.addEventListener("click", () => {
 	history = [];
 });
 
-downloadButton.addEventListener("click", download);
+downloadButton.addEventListener("click", download_file);
 name.addEventListener("keypress", (event) => {
 	if (event.key === "Enter") {
-		download();
+		download_file();
 	}
 });
