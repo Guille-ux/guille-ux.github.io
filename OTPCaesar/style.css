@@ -1,0 +1,21 @@
+body {
+	font-family: sans-serif;
+	background-color: #f1da43;
+}
+
+.myitems {
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+}
+
+.myitems:hover {
+	background-color: #FFF;
+	outline: 2px solid #ccc;
+}
+
+.micro {
+	font-size: 10px;
+}
+
+
