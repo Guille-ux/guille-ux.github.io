@@ -15,7 +15,9 @@
 14. Fontes
  
 # Introdución
-Primeiro de todo tivemos unha charla con **Alberto Fraguas Herrero** sobre os problemas de contaminacións dos acuiferos en españa, disto destacounos a contaminación por nitritos e nitratos referindose a ela como...
+Como o tema deste ano era *Auga limpa futuro sostible*, tivemos a idea de facer cultivos hidropónicos, porque crimos que combinan a auga coa busqueda dun futuro sostible.
+
+Primeiro de todo tivemos unha charla con **Alberto Fraguas Herrero** sobre os problemas de contaminación dos acuiferos en españa, disto destacounos a contaminación por nitritos e nitratos referindose a ela como...
 
 > Un dos problemas medioambientais máis importante en España.
 
