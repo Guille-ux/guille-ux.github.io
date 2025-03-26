@@ -15,37 +15,46 @@
 14. Fontes
  
 # Introdución
-Como o tema deste ano era *Auga limpa futuro sostible*, tivemos a idea de facer cultivos hidropónicos, porque crimos que combinan a auga coa busqueda dun futuro sostible.
+O tema deste ano, *Auga limpa, futuro sostible*, fíxonos pensar na posibilidade de combinar a depuración de augas co cultivo de alimentos. Existe unha técnica chamada hidroponía ou cultivo hidropónico consistente no cultivo de plantas sen terra. Pódese empregar un medio líquido, de xeito que as raíces das prantas estean sumerxidas nunha solución nutritiva, controlando o Ph e a concentración de sales minerais. Tamén se podería empregar un medio sólido inerte, como area lavada ou grava. Esta técnica non é nova, pois xa na época do Imperio Romano foi utilizada polo emperador Tiberio para cultivar pepinos.
 
-Primeiro de todo tivemos unha charla con **Alberto Fraguas Herrero** sobre os problemas de contaminación dos acuiferos en españa, disto destacounos a contaminación por nitritos e nitratos referindose a ela como...
 
-> Un dos problemas medioambientais máis importante en España.
+Primeiro de todo tivemos unha charla con Alberto Fraguas Herrero sobre os problemas de contaminacións dos acuiferos en españa, disto destacounos a contaminación por nitritos e nitratos referindose a ela como un dos problemas medioambientais máis importante en España.
 
-por último destacounos a importancia das investigacións sobre cultivos hidropónicos, que servirián para limpar estás augas.
+Por último destacounos a importancia das investigacións sobre cultivos hidropónicos, que servirián para limpar estás augas.
 
-Con isto o noso traballo comeza coa idea de solucionar un dos **problemás medioambientais máis importantes** en España, a **contaminación** dos acuíferos con nitratos.
-____________
-A idea é sinxela: **utilizar plantas para limpar a auga de nitratos**, tiñamos unha hipótese, que as plantas consumirían os nitratos para satisfacer a súa necesidade en canto a sales minerais, agora tiñamos que probala.
+Con isto o noso traballo comeza coa idea de solucionar un dos problemas medioambientais máis importantes en España, a contaminación dos acuíferos con nitratos.
 
-O primeiro intento foi usar auga dun prado con vacas que tiñamos moi cerca, pero acabamos optando por abonos líquidos debido a que a auga do prado viña dunha fonte, isto non foi o único cambio do que era a idea principal, pois ao principio cambiamos a localización das plantas do almacén ao corredor de dirección.
+A idea é sinxela: utilizar plantas para limpar a auga de nitratos, tiñamos unha hipótesis, que as plantas consumirían os nitratos para satisfacer a súa necesidade en canto a sales minerais, agora tiñamos que probala.
 
-#### Máis cousas....
-- O que vamos facer son cultivos hidropónicos, que ven de hidroponía que refierese a...
-> O termo hidroponía refírese ó cultivo de plantas sen terra, pero en termos xerais é unha técnica de cultivo que consiste de proporcionar á planta todo o que necesite para o seu desenvolvemento, de maneira artificial. 
-> - Wikipedia
-
-- A contaminación dos acuíferos por nitratos é producido polo intensivo uso de fertilizantes artificiaís.
-
+O primeiro intento foi usar auga dun prado con vacas que tiñamos moi cerca, pero acabamos optando por abonos líquidos debido a que a auga do prado viña dunha fonte e baixaba os niveis de nitrato e nitrito .iisto non foi o único cambio do que era a idea principal, pois ao principio cambiamos a localización das plantas do almacén a un corredor con ventás para que lle dera a luz solar.
 
 # Obxectivos
-1. Probar se as plantas alimentaranse "limpando" a auga de nitratos.
-2. Que as plantas sobrevivan.
-3. Que as plantas crezcan.
-4. Que sexa viable.
+O noso obxectivo xeral consiste na comprobación experimental da seguinte hipótese:
+
+“Cultivando hortalizas de xeito hidropónico en auga contaminada con nitratos e nitritos, conseguiremos limpar a auga e facer medrar as plantas”
+
+Dado que a contaminación de acuíferos por nitratos e nitritos, debido ao uso masivo de fertilizantes na agricultura intensiva, é un problema ecolóxico de primeira magnitude, tal e como nos confirmou o écologo Alberto Fraguas Herrero nunha conversa que tivemos con el, sería importante explorar vías para limpar as augas contaminadas por estas sustancias que, por outra banda, son nutrientes para as plantas. De confirmarse a nosa hipótese, o cultivo hidropónico de hortalizas podería ter un doble interese: a depuración de augas contaminadas por fertilizantes nitroxenados e, ao mesmo tempo, a obtención de alimentos saudables para as persoas. A hidroponía permite ter máis plantas en menos espazo, ao non requerir solo para o seu cultivo. Tendo en conta o crecemento da poboación mundial, a disponibilidade de superficie de cultivo suficiente para alimentar á humanidade podería non estar garantida. De aí a importancia de achar métodos alternativos de cultivo. 
+
+Os nosos obxectivos específicos son:
+
+deseñar o experimento para que poda ser levado a cabo cos medios ao noso alcance
+manter as plantas con vida nun medio acuático e conseguir que medren
+mellorar os valores de nitratos e nitritos presentes na auga, é dicir, lograr a súa reducción
+estudar a viabilidade do proxecto para a súa replicación a maior escala
+
+### Obxectivo Xeral
+
+- *Limpar a auga de Nitratos*
+
+### Obxectivos Secundarios
+1. Que as plantas sobrevivan.
+2. Que as plantas medren.
+3. Que sexa viable.
+
 
 |Obxectivo|¿Logrado?|
 |---------|---------|
-|Probar se as plantas limpan a auga de nitratos | ?|
+|Limpar a auga de nitratos | ?|
 |Que as plantas sobrevivan | ?|
 |Que as plantas medren | ?|
 |Que sexa viable| ?|
