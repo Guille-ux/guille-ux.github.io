@@ -1,3 +1,7 @@
+<head>
+ <link rel="stylesheet" href="style.css">
+</head>
+
 # Índice
 1. Portada
 2. Índice
