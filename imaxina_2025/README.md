@@ -176,8 +176,6 @@ Na masa e donde temos un cambio respecto ás tendencias anteriores, neste caso p
 
 # Aprendizaxes e Melloras
 
-
-
 # Equipo e sinaturas
 
 #### Equipo:
