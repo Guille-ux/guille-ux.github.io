@@ -1,7 +1,3 @@
-<head>
- <link rel="stylesheet" href="style.css">
-</head>
-
 # Índice
 1. Portada
 2. Índice
@@ -65,6 +61,15 @@ estudar a viabilidade do proxecto para a súa replicación a maior escala
 
 
 # Metodoloxía
+
+Para facer o experimento eran necesarias plantas que tiveran un grao de desenvolvemento que permitise colocalas nun soporte, de tal xeito que as raíces estiveran sumerxidas no líquido e o resto da planta, ao aire. As plantas estudadas foron: cabaza, fresa, repolo rizado, col rizada e acelga. As cabazas (que son da variedade Patisson porque é unha variedade autoportante, non rastreira) foron sementadas en terra o 14/01/2025 por unha das profesoras do equipo. Trátase dunha planta da familia das cucurbitáceas, cun rápido crecemento inicial, de aí que resultase elixida. O resto das plantas foron adquiridas nun viveiro, e viñan en sementeiros, coas raíces en terra. Os repolos e as coles rizadas son da familia das brasicáceas e son plantas que demandan solos ricos en nitróxeno, por eso foron escollidas para o experimento. As acelgas son plantas da especie Beta vulgaris. Teñen un crecemento moi rápido, por iso forman parte do proxecto. As fresas pertencen á familia das rosáceas. Trátase dunha planta moi resistente e foi empregada ao comezo do experimento para facer unha proba de supervivencia en auga. No mes de decembro, antes das vacacións de Nadal, un conxunto de 12 plantas de fresa, procedentes de estolóns doutras plantas, foron instaladas nuns envases (de iogur, reutilizados) de tal xeito que as raíces estiveran en auga (da billa). Os envases colocáronse no exterior do instituto, contra unha parede. As plantas sobreviviron ata o 17/02, cando se trasladaron aos envases definitivos. Nese momento descartáronse os dous exemplares que estaban en peores condicións. Das cabazas empregráronse as 14 plantas que naceron das sementes. Do resto, mercouse unha docena de cada tipo. 
+
+A metade das plantas de cada tipo foron colocadas en auga contaminada por nitratos e nitritos. O resto, a modo de grupo de control, en auga da billa. O noso plan inicial era conseguir auga con nitratos procedente das escorrentías dunha finca que está ao lado do noso instituto, na que hai habitualmente unhas vacas. Estabamos seguros/as de que esas augas estarían contaminadas por nitratos debido ás heces dos animais. Sen embargo, tras analizar varias mostras, non encontramos restos desta teórica contaminación. Tras investigar os motivos, averiguamos que as escorrentías que chegan ao noso centro, proveñen dun manantial que está máis arriba, na finca. Esa podería ser a razón da falta de nitratos e nitritos na auga. Contactamos entón cos propietarios da finca, para conseguir unha mostra de auga das charcas que hai máis arriba, nunha zona onde estás moi a miúdo os animais. Pero, ao analizar esa mostra, a pesar da turbidez que presentaba, seguiamos sen atopar nitratos e nitritos. Non achamos unha explicación razoable para este feito.
+
+Nese momento, decidimos crear nós mesmos/as a solución de nitratos e nitritos, para o cal mercamos un abono comercial NPK e disolvemos 2 ml de abono en 1,5 litros de auga. Se botásemos máis abono,  a concentración de nitratos e nitritos quedaría fóra do rango que podemos medir cos nosos recursos. 
+
+Unha vez preparada a solución, comezamos a parte máis tediosa do noso proxecto: lavar as raíces das plantas, para eliminar os restos de terra, con moita precaución de non danalas. 
+
 
 Para levar acabo este estudo, realizouse un seguimento de crecemento de diferentes plantas,
 as plantas estudadas foron a: **cabaza**, **fresa**, **repolo rizado**, **col rizada** e **acelga**.
