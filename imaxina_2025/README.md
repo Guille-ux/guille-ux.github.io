@@ -7,12 +7,10 @@
 6. Análise dos datos
 7. Conclusións
 8. Aprendizaxe e Melloras
-9. Equipo e sinaturas
-10. Notas do editor
-11. Agradecementos
-12. Fotos no Proxecto
-13. Obxectivos logrados?
-14. Fontes
+9. Notas do editor
+10. Agradecementos
+11. Obxectivos logrados?
+12. Fontes
  
 # Introdución
 O tema deste ano, *Auga limpa, futuro sostible*, fíxonos pensar na posibilidade de combinar a depuración de augas co cultivo de alimentos. Existe unha técnica chamada hidroponía ou cultivo hidropónico consistente no cultivo de plantas sen terra. Pódese empregar un medio líquido, de xeito que as raíces das prantas estean sumerxidas nunha solución nutritiva, controlando o Ph e a concentración de sales minerais. Tamén se podería empregar un medio sólido inerte, como area lavada ou grava. Esta técnica non é nova, pois xa na época do Imperio Romano foi utilizada polo emperador Tiberio para cultivar pepinos.
@@ -179,21 +177,18 @@ Na masa e donde temos un cambio respecto ás tendencias anteriores, neste caso p
 
 # Conclusións
 
+
+
 # Aprendizaxes e Melloras
 
-# Equipo e sinaturas
-
 #### Equipo:
-- Guillermo Leira Temes
-- 
-- 
-- 
+- Guillermo Leira Temes : 49917360T (DNI)
+- Celia Álvarez León : 49678771J (DNI)
+- Alejandra Sabio Domínguez : 58020571N (DNI)
+- Emma Villamor Redondo : 49470469E (DNI)
 
-#### Sinaturas
-
-
-#### Foto do Equipo
-
+#### Profesor
+- María José Bargados Varela : 34898676V (DNI)
 
 # Notas do Editor
 
@@ -206,7 +201,6 @@ Editor: Guillermo Leira Temes
 - Agradecemos ás nosas tutoras, polo apoio no proxecto.
 - Agradecemos a Maria José por manter con vida as plantas.
 
-# Fotos no Proxecto
 
 # E os Obxectivos?
 
