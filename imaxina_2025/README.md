@@ -1,4 +1,18 @@
-# Índice
+<!-- This program is free software: you can redistribute it and/or modify
+<!-- it under the terms of the GNU General Public License as published by
+<!-- the Free Software Foundation, either version 3 of the License, or
+<!-- (at your option) any later version.
+<!-- This program is distributed in the hope that it will be useful,
+<!-- but WITHOUT ANY WARRANTY; without even the implied warranty of
+<!-- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+<!-- GNU General Public License for more details.
+<!-- You should have received a copy of the GNU General Public License
+<!-- along with this program. If not, see <https://www.gnu.org/licenses/>.
+<!-- Copyright (c) 2025 Guillermo Leira Temes
+<!-- -->
+#
+
+## Índice
 1. Portada
 2. Índice
 3. Introducción
@@ -12,7 +26,7 @@
 11. Obxectivos logrados?
 12. Fontes
  
-# Introdución
+## Introdución
 O tema deste ano, *Auga limpa, futuro sostible*, fíxonos pensar na posibilidade de combinar a depuración de augas co cultivo de alimentos. Existe unha técnica chamada hidroponía ou cultivo hidropónico consistente no cultivo de plantas sen terra. Pódese empregar un medio líquido, de xeito que as raíces das prantas estean sumerxidas nunha solución nutritiva, controlando o Ph e a concentración de sales minerais. Tamén se podería empregar un medio sólido inerte, como area lavada ou grava. Esta técnica non é nova, pois xa na época do Imperio Romano foi utilizada polo emperador Tiberio para cultivar pepinos.
 
 
@@ -26,7 +40,7 @@ A idea é sinxela: utilizar plantas para limpar a auga de nitratos, tiñamos unh
 
 O primeiro intento foi usar auga dun prado con vacas que tiñamos moi cerca, pero acabamos optando por abonos líquidos debido a que a auga do prado viña dunha fonte e baixaba os niveis de nitrato e nitrito .iisto non foi o único cambio do que era a idea principal, pois ao principio cambiamos a localización das plantas do almacén a un corredor con ventás para que lle dera a luz solar.
 
-# Obxectivos
+## Obxectivos
 O noso obxectivo xeral consiste na comprobación experimental da seguinte hipótese:
 
 “Cultivando hortalizas de xeito hidropónico en auga contaminada con nitratos e nitritos, conseguiremos limpar a auga e facer medrar as plantas”
@@ -40,11 +54,11 @@ manter as plantas con vida nun medio acuático e conseguir que medren
 mellorar os valores de nitratos e nitritos presentes na auga, é dicir, lograr a súa reducción
 estudar a viabilidade do proxecto para a súa replicación a maior escala
 
-### Obxectivo Xeral
+#### Obxectivo Xeral
 
 - *Limpar a auga de Nitratos*
 
-### Obxectivos Secundarios
+#### Obxectivos Secundarios
 1. Que as plantas sobrevivan.
 2. Que as plantas medren.
 3. Que sexa viable.
@@ -58,7 +72,7 @@ estudar a viabilidade do proxecto para a súa replicación a maior escala
 |Que sexa viable| ?|
 
 
-# Metodoloxía
+## Metodoloxía
 
 Para facer o experimento eran necesarias plantas que tiveran un grao de desenvolvemento que permitise colocalas nun soporte, de tal xeito que as raíces estiveran sumerxidas no líquido e o resto da planta, ao aire. As plantas estudadas foron: cabaza, fresa, repolo rizado, col rizada e acelga. As cabazas (que son da variedade Patisson porque é unha variedade autoportante, non rastreira) foron sementadas en terra o 14/01/2025 por unha das profesoras do equipo. Trátase dunha planta da familia das cucurbitáceas, cun rápido crecemento inicial, de aí que resultase elixida. O resto das plantas foron adquiridas nun viveiro, e viñan en sementeiros, coas raíces en terra. Os repolos e as coles rizadas son da familia das brasicáceas e son plantas que demandan solos ricos en nitróxeno, por eso foron escollidas para o experimento. As acelgas son plantas da especie Beta vulgaris. Teñen un crecemento moi rápido, por iso forman parte do proxecto. As fresas pertencen á familia das rosáceas. Trátase dunha planta moi resistente e foi empregada ao comezo do experimento para facer unha proba de supervivencia en auga. No mes de decembro, antes das vacacións de Nadal, un conxunto de 12 plantas de fresa, procedentes de estolóns doutras plantas, foron instaladas nuns envases (de iogur, reutilizados) de tal xeito que as raíces estiveran en auga (da billa). Os envases colocáronse no exterior do instituto, contra unha parede. As plantas sobreviviron ata o 17/02, cando se trasladaron aos envases definitivos. Nese momento descartáronse os dous exemplares que estaban en peores condicións. Das cabazas empregráronse as 14 plantas que naceron das sementes. Do resto, mercouse unha docena de cada tipo. 
 
@@ -72,7 +86,7 @@ Unha vez preparada a solución, comezamos a parte máis tediosa do noso proxecto
 Para levar acabo este estudo, realizouse un seguimento de crecemento de diferentes plantas,
 as plantas estudadas foron a: **cabaza**, **fresa**, **repolo rizado**, **col rizada** e **acelga**.
 
-## Proceso
+### Proceso
 
 Os cultivos foron regados con augas de diferente procedencia, da que medimos diferentes valores como:
 
@@ -93,7 +107,7 @@ Estas medicións foron feitas en diferentes datas para ter unha visión global d
 
 Pero primeiro de todo tocou transplantalas, proceso que fixemos da seguinte maneira:
 
-### Procedemento no transplante
+#### Procedemento no transplante
 1. Sacamos a plantas da terra
 2. Limpamos a terra sobrante
 3. As estiramos nunha regra graduada en milimetros
@@ -106,7 +120,7 @@ Pero primeiro de todo tocou transplantalas, proceso que fixemos da seguinte mane
 10. Colocamos as plantas nas botellas coa auga da billa ou con abono
 
 
-# Análise dos datos
+## Análise dos datos
 
 |Especie|Código|Procedencía da Auga|Nitrato (mg/l) 11/02/2025|Nitrato (mg/l) 11/03/2025|
 |-|-|-|-|-|
@@ -138,7 +152,7 @@ Con esta pequena gráfica (que non é completa) podemos analizar un pouco os val
 
 ----
 
-### Gráfica Nitratos
+#### Gráfica Nitratos
 
 ![Gráfico](https://guille-ux.github.io/chart.png "Gráfico")
 
@@ -147,39 +161,47 @@ Agora, isto e unha versión máis amigable para comprendelos, as barras vermella
 
 Agora despois de ver un sinxelo exemplo, toca ver as demáis gráficas das cabazas:
 
-### Gráfica Lonxitude Total
+#### Gráfica Lonxitude Total
 ![Gráfica Lonxitude Total](https://guille-ux.github.io/chart(1).svg "Gráfica Lonxitude Total")
 
 Na lonxitude total, ao contrario que na gráfica dos nitratos a observamos unha tendencía ao alza en todalas plantas, aunque un pouco maior nas plantas con auga da billa.
 
 -----
 
-### Gráfica Lonxitude Raíz
+#### Gráfica Lonxitude Raíz
 ![Gráfica Lonxitude Raíz](https://guille-ux.github.io/chart(2).svg "Gráfica Lonxitude")
 
 Na lonxitude da raíz repitese unha tendencía similar á lonxitude total, excepto que cortouselle parte das raíz a algunhas plantas ao momento de sacalas dos recipientes.
 
 ------
 
-### Gráfica Grosor Talo
+#### Gráfica Grosor Talo
 ![Grosor Talo](https://guille-ux.github.io/chart(3).svg "Grosor Talo")
 
 No grosor do talo observamos que case todalas plantas suben nesta medida, excepto algunhas que manteñense e dúas que baixan, tamen observamos que o incremento e maior nas plantas con auga da billa.
 
 ------
 
-### Gráfica Masa
+#### Gráfica Masa
 ![Gráfica Masa](https://guille-ux.github.io/chart(4).svg "Gráfica Masa")
 
 Na masa e donde temos un cambio respecto ás tendencias anteriores, neste caso podemos dicir que creceron máis as plantas con auga abonada sobre todo a anomalía da número oito na que pasa de menos de 5 gramos a case 60.
 
 ------------
 
-# Conclusións
+## Conclusións
 
 
 
-# Aprendizaxes e Melloras
+## Aprendizaxes e Melloras
+
+#### Aprendizaxes
+
+Durante o transcurso deste proxecto aprendemos moitas cousas como a importancia de **deseñar ben o proxecto**, solucionar toda a **loxística** antes de comezar, aprendemos como tomar **ben** as medidas, a importancia de ter o **mesmo criterio** para que os datos sexan válidos
+
+#### Melloras
+
+## O noso equipo
 
 #### Equipo:
 - Guillermo Leira Temes : 49917360T (DNI)
@@ -187,22 +209,33 @@ Na masa e donde temos un cambio respecto ás tendencias anteriores, neste caso p
 - Alejandra Sabio Domínguez : 58020571N (DNI)
 - Emma Villamor Redondo : 49470469E (DNI)
 
-#### Profesor
+#### Profesora
 - María José Bargados Varela : 34898676V (DNI)
 
-# Notas do Editor
+## Notas do Editor
 
 Isto é público na miña páxina de github: [guille-ux.github.io](https://guille-ux.github.io), que tamen é a páxina donde temos as imaxes.
 
 Editor: Guillermo Leira Temes
 
-# Agradecementos
+## Agradecementos
 
-- Agradecemos ás nosas tutoras, polo apoio no proxecto.
 - Agradecemos a Maria José por manter con vida as plantas.
+- Agradecemos a nosos profesores
+	- Agradecemos a David Buceta (profesor de física e química) pola súa axuda coas medicións.
+		
+	- Agradecemos a Ricardo Ferreiro (profesor de bioloxía e xeoloxía) por axudarnos.
+		- A preparación da disolución de abono.
+		- A análise da auga.
+		- Decidir que variables medir.
+		
+	- Agradecemos a Sandra Sambade (profesora de matemáticas) por axudarnos.
+		- Por axudarnos deseñar o experimento.
+		- Por explicarnos como tomar medidas.
+		- Por explicarnos como fanse os gráficos.
 
 
-# E os Obxectivos?
+## E os Obxectivos?
 
 Espero que non teñas olvidado os obxectivos do principio
 
@@ -219,7 +252,7 @@ Espero que non teñas olvidado os obxectivos do principio
 - [x] Que as plantas medren.
 - [ ] Que sexa viable.
 
-# Fontes
+## Fontes
 
 - Wikipedia
 
