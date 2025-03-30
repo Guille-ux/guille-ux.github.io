@@ -1,15 +1,4 @@
-<!-- This program is free software: you can redistribute it and/or modify
-<!-- it under the terms of the GNU General Public License as published by
-<!-- the Free Software Foundation, either version 3 of the License, or
-<!-- (at your option) any later version.
-<!-- This program is distributed in the hope that it will be useful,
-<!-- but WITHOUT ANY WARRANTY; without even the implied warranty of
-<!-- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-<!-- GNU General Public License for more details.
-<!-- You should have received a copy of the GNU General Public License
-<!-- along with this program. If not, see <https://www.gnu.org/licenses/>.
-<!-- Copyright (c) 2025 Guillermo Leira Temes
-<!-- -->
+
 # Plantas Potabilizadoras
 
 ## Índice
@@ -195,6 +184,7 @@ Na masa e donde temos un cambio respecto ás tendencias anteriores, neste caso p
 
 En base aos resultados obtidos, se ben as plantas **sobreviviron** e **creceron**, non cumpliron co obxectivo principal, que era demostrar unha limpeza significativa da auga de nitratos nas condicións experimentais. De feito na auga con abono os niveis **aumentaron** aunque dudamos da veracidades dos datos, a pesar dese golpe de realidade (que os resultados fosen os contrarios aos esperados), si demostramos un **gran crecemento** das plantas e consideramos isto idicador de que algo consumiron, polo que o aumento dos nitritos poderia deberse a causas externas.
 
+Na viabilidade a gran escala, se ben é certo que pode presentar algunhas dificultades como a cantidade de plantas necesarias para limpar auga, as súas ventaxas son maiores (é certo que nas augas con abono non disminuíu case a concentración pero creemos que iso debese a outros factores pois as de auga da billa si eliminaron nitratos e nitritos) a depuración de augas sería máis barata, sinxela e verde.
 ## Aprendizaxes e Melloras
 
 #### Aprendizaxes
@@ -209,7 +199,7 @@ Tamén estaria ben poder meidr con máis precisión os nitratos e nitritos, pode
 
 Logo hai dúas ampliacións que imos tentar levar a cabo no que queda de curso.
 	- Crear unha páxina web para o noso grupo de Enriquecemento Curricular (co obxectivo de públicar os proxectos que fagamos).
-	- Facer unha escala de **cores intermedias** para medir o PH con máis precisión (E unha escala logarítmica, non e o máis sinxelo pero podese facer). Para isto axudaranos Noelia Méndez Casas.
+	- Facer unha escala de **cores intermedias** para medir o PH con máis precisión (E unha escala logarítmica, non e o máis sinxelo pero podese facer). Para isto axudaranos Noelia Méndez Casas que é a xefa do departamento de plástica.
 
 ## O noso equipo
 
