@@ -10,7 +10,7 @@
 <!-- along with this program. If not, see <https://www.gnu.org/licenses/>.
 <!-- Copyright (c) 2025 Guillermo Leira Temes
 <!-- -->
-#
+# Plantas Potabilizadoras
 
 ## Índice
 1. Portada
@@ -43,7 +43,7 @@ O primeiro intento foi usar auga dun prado con vacas que tiñamos moi cerca, per
 ## Obxectivos
 O noso obxectivo xeral consiste na comprobación experimental da seguinte hipótese:
 
-“Cultivando hortalizas de xeito hidropónico en auga contaminada con nitratos e nitritos, conseguiremos limpar a auga e facer medrar as plantas”
+*Cultivando hortalizas de xeito hidropónico en auga contaminada con nitratos e nitritos, conseguiremos limpar a auga e facer medrar as plantas*
 
 Dado que a contaminación de acuíferos por nitratos e nitritos, debido ao uso masivo de fertilizantes na agricultura intensiva, é un problema ecolóxico de primeira magnitude, tal e como nos confirmou o écologo Alberto Fraguas Herrero nunha conversa que tivemos con el, sería importante explorar vías para limpar as augas contaminadas por estas sustancias que, por outra banda, son nutrientes para as plantas. De confirmarse a nosa hipótese, o cultivo hidropónico de hortalizas podería ter un doble interese: a depuración de augas contaminadas por fertilizantes nitroxenados e, ao mesmo tempo, a obtención de alimentos saudables para as persoas. A hidroponía permite ter máis plantas en menos espazo, ao non requerir solo para o seu cultivo. Tendo en conta o crecemento da poboación mundial, a disponibilidade de superficie de cultivo suficiente para alimentar á humanidade podería non estar garantida. De aí a importancia de achar métodos alternativos de cultivo. 
 
@@ -114,11 +114,13 @@ Pero primeiro de todo tocou transplantalas, proceso que fixemos da seguinte mane
 4. Anotamos os resultados da lonxitude total, da raíz, do grosor do talo e do alto e ancho da folla máis grande
 5. Medimos a masa
 6. Contamos o número de follas completas, cotiledóns e frutos, no caso de telos
-7. Medimos o nitratos e nitritos, o ph da auga e o cloro
+7. Medimos o nitratos e nitritos, o ph da auga e o cloro (isto fixemolo cunhas tiras especiais)
 8. Cortamos a botella pola parte da abertura
-9. Colocamos lana de roca no talo
-10. Colocamos as plantas nas botellas coa auga da billa ou con abono
+9. Colocamos **lana de roca** no talo, o obxectivo disto é servir como sustrato para o cultivo (primeiro probamos con algodon).
+10. Colocamos as 14 plantas de cada especie nas botellas coa auga da billa ou con abono
+11. Por último gardamos as plantas en caixas.
 
+Despois dun tempo repetimos isto, o tempo non foi o mesmo para todas as plantas, por exemplo, as cabazas estiveron un més na auga.
 
 ## Análise dos datos
 
@@ -191,7 +193,7 @@ Na masa e donde temos un cambio respecto ás tendencias anteriores, neste caso p
 
 ## Conclusións
 
-
+En base aos resultados obtidos, se ben as plantas **sobreviviron** e **creceron**, non cumpliron co obxectivo principal, que era demostrar unha limpeza significativa da auga de nitratos nas condicións experimentais. De feito na auga con abono os niveis **aumentaron** aunque dudamos da veracidades dos datos, a pesar dese golpe de realidade (que os resultados fosen os contrarios aos esperados), si demostramos un **gran crecemento** das plantas e consideramos isto idicador de que algo consumiron, polo que o aumento dos nitritos poderia deberse a causas externas.
 
 ## Aprendizaxes e Melloras
 
@@ -199,7 +201,15 @@ Na masa e donde temos un cambio respecto ás tendencias anteriores, neste caso p
 
 Durante o transcurso deste proxecto aprendemos moitas cousas como a importancia de **deseñar ben o proxecto**, solucionar toda a **loxística** antes de comezar, aprendemos como tomar **ben** as medidas, a importancia de ter o **mesmo criterio** para que os datos sexan válidos
 
-#### Melloras
+#### Melloras e Ampliacións
+
+Gustarianos dispoñer de instrumentos de medida máis precisos, podese decir que o nos "inventario" de ferramentas era un pouco "precario".
+
+Tamén estaria ben poder meidr con máis precisión os nitratos e nitritos, podendo usar concentracións máis elevadas que as empregadas. Quizais algunhas das plantas medrarían máis rápido, pero o noso material non nos permitía medir concentracións tan altas.
+
+Logo hai dúas ampliacións que imos tentar levar a cabo no que queda de curso.
+	- Crear unha páxina web para o noso grupo de Enriquecemento Curricular (co obxectivo de públicar os proxectos que fagamos).
+	- Facer unha escala de **cores intermedias** para medir o PH con máis precisión (E unha escala logarítmica, non e o máis sinxelo pero podese facer). Para isto axudaranos Noelia Méndez Casas.
 
 ## O noso equipo
 
@@ -209,7 +219,7 @@ Durante o transcurso deste proxecto aprendemos moitas cousas como a importancia 
 - Alejandra Sabio Domínguez : 58020571N (DNI)
 - Emma Villamor Redondo : 49470469E (DNI)
 
-#### Profesora
+#### Profesora:
 - María José Bargados Varela : 34898676V (DNI)
 
 ## Notas do Editor
