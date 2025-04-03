@@ -28,4 +28,4 @@
 <a href="OTPCaesar/">Go To OTP Cipher</a>
 
 ## Works
-<a href="informe plantas PRESENTADO.pdf">Traballo Imaxina 2025</a>
+<a href="memoria.pdf">Traballo Imaxina 2025</a>
