@@ -4,15 +4,51 @@
   <meta charset="utf-8">
   <title>MunixOs Keyboard Layout Maker</title>
   <style>
-    #keyboard {
-      
+    body {
+        background-color: #1a1a1a;
+        color: #00ff00;
+        font-family: monospace;
+        padding: 20px;
     }
+    
     #palette {
-
+      background: #252525;
+      padding: 10px;
+      border: 1px solid #444;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    #keyboard {
+      display: grid;
+      grid-template-columns: repeat(18, 50px); /* 15 columnas de 50 píxeles */
+      gap: 5px;
+      margin-top: 20px;
+      background: #333;
+      padding: 15px;
+      border-radius: 8px;
+    }
+    .key, .character {
+      width: 50px;
+      height: 50px;
+      background: #444;
+      border: 1px solid #666;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: grab;
+    }
+    .key {
+      background: #222;
     }
     #code {
-      
+      background: #000;
+      color: #00ff00;
+      border: 1px solid #00ff00;
+      width: 100%;
+      margin-top: 10px;
     }
+    
   </style>
 </head>
 <body>
