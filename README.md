@@ -27,6 +27,9 @@
 ### OTP Cipher
 <a href="OTPCaesar/">Go To OTP Cipher</a>
 
+### Keyboard C Layout Maker for MunixOS
+<a href="kb_layout/">Go To Keyboard Layout Maker for MunixOS</a>
+
 ## Works
 <a href="memoria.pdf">Traballo Imaxina 2025</a>
 
