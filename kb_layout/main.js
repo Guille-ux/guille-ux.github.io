@@ -6,7 +6,7 @@ function buildKeyBoard() {
     const newKey = document.createElement("div");
     newKey.className = "key";
     newKey.innerText = "0x" + scancode.toString(16).toUpperCase().padStart(2, '0');
-    document.appendChild(key);
+    document.appendChild(newKey);
   }
 }
 
