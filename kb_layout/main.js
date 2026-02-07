@@ -1,12 +1,14 @@
 const n_keys = 105;
-const keyboard_container = document.getElementById("keyboard");
-const generate_button = document.getElementById("generate_button");
+const keyboard_container = document.getElementById("#keyboard");
+const generate_button = document.getElementById("#generate_button");
+const resultado = document.getElementById("#resultado");
 
 function buildKeyBoard() {
-  for (let i=1;i<n_keys;i++) {
+  for (let i=0;i<n_keys;i++) {
     const newKey = document.createElement("div");
     newKey.className = "key";
-    newKey.innerText = "0x" + i.toString(16).toUpperCase().padStart(2, '0');
+    let scancode = i + 1;
+    newKey.innerText = "0x" + scancode.toString(16).toUpperCase().padStart(2, '0');
     const character = document.createElement("input");
     character.className = "character";
     newKey.appendChild(character);
