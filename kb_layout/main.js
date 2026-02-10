@@ -1,7 +1,7 @@
 const n_keys = 105;
-const keyboard_container = document.getElementById("#keyboard");
-const generate_button = document.getElementById("#generate_button");
-const resultado = document.getElementById("#resultado");
+const keyboard_container = document.getElementById("keyboard");
+const generate_button = document.getElementById("generate_button");
+const resultado = document.getElementById("resultado");
 
 function buildKeyBoard() {
   for (let i=0;i<n_keys;i++) {
