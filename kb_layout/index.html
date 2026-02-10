@@ -13,7 +13,7 @@
     
     #keyboard {
       display: grid;
-      grid-template-columns: repeat(10, 60px); /* 10 columnas de 50 píxeles cada una */
+      grid-template-columns: repeat(10, 60px); /* 10 columnas de 60 píxeles cada una */
       gap: 5px;
       margin-top: 20px;
       background: #333;
@@ -22,7 +22,7 @@
       width: fit-content;
     }
     .key, .character {
-      
+      padding: 5px
       width: 30px;
       height: 30px;
       background: #444;
@@ -33,12 +33,11 @@
     }
     .key {
       position: relative;
-
       background: #222;
     }
     .character {
       position: absolute;
-      left: 30px;
+      margin-left: 30px;
     }
     #resultado {
       background: #000;
